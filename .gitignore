@@ -1,0 +1,10 @@
+.env
+rag-env/
+__pycache__/
+*.pyc
+*.pyo
+faiss.index
+faiss_meta.pkl
+*.pkl
+.venv/
+venv/
